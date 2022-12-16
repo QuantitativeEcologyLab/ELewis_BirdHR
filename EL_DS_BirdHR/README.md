@@ -1,2 +1,1 @@
-# EL_DS_BirdHR
-# EL_DS_BirdHR
+This repo contains everything necessary to perfrom the analysis completed during my directed studies. 
